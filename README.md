@@ -5,11 +5,11 @@ You can access the dataset from the following Google Drive link:
 ## Setup Instructions
 
 ### 1.สร้าง Virtual Environment
-```bash
+```bash1
 python -m venv venv
 ### 2.เปิดใช้งาน Virtual Environment:
-```bash
+```bash2
 .\venv\Scripts\activate
 ### 3.ติดตั้ง dependencies ภายใน virtual environment:
-```bash
+```bash3
 pip install -r requirements.txt
